@@ -1,0 +1,19 @@
+{
+  "name": "bizzyChallenge",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/czengg/classyRedesign.git"
+  },
+  "author": "czengg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/czengg/classyRedesign/issues"
+  },
+  "dependencies": {
+    "bower": "^1.7.2",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.4"
+  }
+}

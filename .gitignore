@@ -1,0 +1,13 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/bower_components/
+www/lib
+*.log
+
+# Mac
+*.DS_Store
+
+# Node
+npm-debug.log
+/node_modules
